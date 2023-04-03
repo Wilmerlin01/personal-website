@@ -1,0 +1,147 @@
+.page-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    width: 100%;
+}
+
+.page-header {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 620px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    width: 100%;
+}
+
+.title {
+    color: #191919;
+    font-family: ftnk;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+}
+
+.title-description {
+    color: #999999;
+    font-family: ftnk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+}
+
+.portrait-container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    max-width: 100%;
+}
+
+.portrait-container img {
+    display: block;
+    margin: 0 auto;
+    max-width: 860px;
+}
+
+.skills {
+    font-family: ftnk;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+.skills-description {
+    font-family: ftnk;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.github {
+    font-family: ftnk;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+.github-link {
+    font-family: ftnk;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.divider img{
+    max-width: 1152px;
+}
+
+.project-breakdown {
+    font-family: ftnk;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 135px;
+    margin-right: 135px;
+    text-rendering: optimizeLegibility;
+}
+
+.about-the-website {
+    font-family: ftnk;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+}
+
+.about-the-website-description {
+    font-family: ftnk;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: left;
+}
+
+.my-vision {
+    font-family: ftnk;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+}
+
+.my-vision-description {
+    font-family: ftnk;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: left;
+}

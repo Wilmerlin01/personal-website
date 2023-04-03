@@ -1,0 +1,40 @@
+.site-footer-container{
+    padding-bottom: 130px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 130px;
+    width: 100%;
+}
+
+.site-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-social-icons {
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+    .linkedin-icon img {
+        width: 28px;
+        height: 28px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .mail-icon img {
+        width: 28px;
+        height: 28px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 8px;
+        padding-right: 8px;
+    }

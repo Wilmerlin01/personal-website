@@ -1,0 +1,163 @@
+.page-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    width: 100%;
+}
+
+.page-header {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 620px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    width: 100%;
+}
+
+.title {
+    color: #191919;
+    font-family: ftnk;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+}
+
+.title-description {
+    color: #999999;
+    font-family: ftnk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+}
+
+.form-container {
+    float: none;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    width: 100%;
+}
+.form-input {
+    display: block;
+}
+label {
+    color: rgb(145, 145, 145);
+    font-family: ftnk;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 16px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    text-align: left;
+    text-transform: none;
+    display: block;
+}
+
+input, textarea{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(224, 224, 224);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    outline: none;
+
+    color: rgb(33, 33, 33,);
+    font-family: ftnk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    text-transform: none;
+    display: block;
+    width: 100%;
+
+    writing-mode: horizontal-tb;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    border-image: initial;
+
+    padding: 1px 2px;
+}
+
+textarea {
+    margin-bottom: 0px;
+}
+
+input[type='text' i]{
+    padding: 1px 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 42px;
+}
+
+textarea[type='text' i] {
+    padding: 1px 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    height: 132px;
+}
+
+input::placeholder, textarea::placeholder {
+    color: rgb(224, 224, 224);
+}
+
+.submit-button {
+    background-image: url('resources/submit_blank.png');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+.submit-button span {
+  display: block;
+  text-indent: 0;
+  font-family: fbft;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+
+  color: rgb(255, 255, 255);
+}
+
+.form-sent {
+    color: #999999;
+    font-family: ftnk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+}
