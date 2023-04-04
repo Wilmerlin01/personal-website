@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import './Navbar.css';
 import { faBars, faTimes } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import resume from './resources/Wilmer_Lin_Resume.pdf';
 
 function Navbar() {
     const [click, setClick] = useState(false);
@@ -14,6 +13,8 @@ function Navbar() {
     const logo = require('./resources/W.L_square.png');
     const linkedin = require('./resources/linkedin.png');
     const mail = require('./resources/mail.png')
+    const resume = require('./resources/Wilmer_Lin_Resume.pdf')
+
 
     return (
       <>
